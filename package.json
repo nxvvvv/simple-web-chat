@@ -83,7 +83,7 @@
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2",
     "ws": "^7.2.1",
-    "xmlhttprequest-ssl": "^1.5.5",
+    "xmlhttprequest-ssl": "^1.6.2",
     "yeast": "^0.1.2"
   },
   "devDependencies": {},
