@@ -29,7 +29,7 @@
     "destroy": "^1.0.4",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.2",
-    "engine.io": "^3.4.0",
+    "engine.io": "^4.1.2",
     "engine.io-client": "^3.4.0",
     "engine.io-parser": "^2.2.0",
     "escape-html": "^1.0.3",
