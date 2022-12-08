@@ -63,7 +63,7 @@
     "path": "^0.12.7",
     "path-to-regexp": "^0.1.7",
     "proxy-addr": "^2.0.5",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.0",
     "safe-buffer": "^5.1.2",
